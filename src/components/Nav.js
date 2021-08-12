@@ -18,7 +18,7 @@ function Nav() {
     <IconContext.Provider value={{ color: "#fff", size: "3.5rem" }}>
       <nav className="navbar">
         <div className="navbar-container ncontainer">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link to="/ldcakes" className="navbar-logo" onClick={closeMobileMenu}>
             Loan Do Cakes
           </Link>
           <div className="menu-icon" onClick={handleClick}>
