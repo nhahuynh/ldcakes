@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "../App.css";
 import "./Home.css";
 
@@ -28,9 +28,9 @@ export default class Home extends Component {
               <br />
               Bet you can't have just one bite.
             </p>
-            {/* <Link to="../Gallery/gallery"> */}
-            <h4>Gallery</h4>
-            {/* </Link> */}
+            <Link to="../Gallery/gallery">
+              <h4>Gallery</h4>
+            </Link>
           </div>
           <div className="hero-images">
             <img
@@ -77,9 +77,9 @@ export default class Home extends Component {
         </section>
         <header className="gallery-head">
           <h3>GALLERY</h3>
-          {/* <Link to="../Gallery/gallery"> */}
-          <p>See more styles</p>
-          {/* </Link> */}
+          <Link to="../Gallery/gallery">
+            <p>See more styles</p>
+          </Link>
         </header>
         <div className="galleryhome" id="gallery">
           <img className="gallery1" src={gallery1} alt="jelly succulent cake" />
