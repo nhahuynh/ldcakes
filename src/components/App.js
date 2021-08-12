@@ -13,7 +13,7 @@ function App() {
         <Nav />
         <Switch>
           <Route exact path="/ldcakes" component={Home} />
-          <Route path="/gallery" component={Gallery} />
+          <Route path="/ldcakes/gallery" component={Gallery} />
         </Switch>
         <Footer />
       </div>
