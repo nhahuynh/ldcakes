@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ldcakes/static/css/main.293177bf.chunk.css",
-    "main.js": "/ldcakes/static/js/main.a8b8c6a6.chunk.js",
-    "main.js.map": "/ldcakes/static/js/main.a8b8c6a6.chunk.js.map",
+    "main.js": "/ldcakes/static/js/main.ab1f6d10.chunk.js",
+    "main.js.map": "/ldcakes/static/js/main.ab1f6d10.chunk.js.map",
     "runtime-main.js": "/ldcakes/static/js/runtime-main.ae6794c0.js",
     "runtime-main.js.map": "/ldcakes/static/js/runtime-main.ae6794c0.js.map",
     "static/js/2.500cea70.chunk.js": "/ldcakes/static/js/2.500cea70.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ae6794c0.js",
     "static/js/2.500cea70.chunk.js",
     "static/css/main.293177bf.chunk.css",
-    "static/js/main.a8b8c6a6.chunk.js"
+    "static/js/main.ab1f6d10.chunk.js"
   ]
 }
