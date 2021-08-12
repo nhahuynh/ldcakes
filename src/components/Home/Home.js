@@ -28,7 +28,7 @@ export default class Home extends Component {
               <br />
               Bet you can't have just one bite.
             </p>
-            <Link to="../Gallery/gallery">
+            <Link to="/ldcakes/gallery">
               <h4>Gallery</h4>
             </Link>
           </div>
