@@ -23,7 +23,7 @@ class Home extends React.Component {
               <br />
               Bet you can't have just one bite.
             </p>
-            <Link to="/ldcakes/gallery">
+            <Link to="/gallery">
               <h4>Gallery</h4>
             </Link>
           </div>
@@ -72,7 +72,7 @@ class Home extends React.Component {
         </section>
         <header className="gallery-head">
           <h3>GALLERY</h3>
-          <Link to="../Gallery/gallery">
+          <Link to="/gallery">
             <p>See more styles</p>
           </Link>
         </header>
