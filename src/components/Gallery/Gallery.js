@@ -61,7 +61,7 @@ function Gallery() {
       <div className="container">
         {filteredImages.map((image) => (
           <div key={image.id} className="image-card">
-            <img className="image" src={`/images/${image.imageName}`} alt="" />
+            <img className="image" src={`./images/${image.imageName}`} alt="" />
           </div>
         ))}
       </div>
