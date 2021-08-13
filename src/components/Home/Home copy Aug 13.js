@@ -10,7 +10,11 @@ import gallery2 from "../../assets/images/img6.jpg";
 import gallery3 from "../../assets/images/img2.jpg";
 
 // function Home() {
-class Home extends React.Component {
+
+export default class Home extends Component {
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   render() {
     return (
       <div>
@@ -86,5 +90,3 @@ class Home extends React.Component {
     // }
   }
 }
-
-export default Home;
