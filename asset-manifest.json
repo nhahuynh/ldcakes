@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ldcakes/static/css/main.293177bf.chunk.css",
+    "main.css": "/ldcakes/static/css/main.bdcf03e5.chunk.css",
     "main.js": "/ldcakes/static/js/main.02ffebe7.chunk.js",
     "main.js.map": "/ldcakes/static/js/main.02ffebe7.chunk.js.map",
     "runtime-main.js": "/ldcakes/static/js/runtime-main.ae6794c0.js",
@@ -10,7 +10,7 @@
     "static/js/3.5ccc5ba5.chunk.js": "/ldcakes/static/js/3.5ccc5ba5.chunk.js",
     "static/js/3.5ccc5ba5.chunk.js.map": "/ldcakes/static/js/3.5ccc5ba5.chunk.js.map",
     "index.html": "/ldcakes/index.html",
-    "static/css/main.293177bf.chunk.css.map": "/ldcakes/static/css/main.293177bf.chunk.css.map",
+    "static/css/main.bdcf03e5.chunk.css.map": "/ldcakes/static/css/main.bdcf03e5.chunk.css.map",
     "static/js/2.a42ea086.chunk.js.LICENSE.txt": "/ldcakes/static/js/2.a42ea086.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ldcakes/static/media/Poppins-Regular.8081832f.ttf",
     "static/media/aboutimg.ff9989c0.jpg": "/ldcakes/static/media/aboutimg.ff9989c0.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae6794c0.js",
     "static/js/2.a42ea086.chunk.js",
-    "static/css/main.293177bf.chunk.css",
+    "static/css/main.bdcf03e5.chunk.css",
     "static/js/main.02ffebe7.chunk.js"
   ]
 }
