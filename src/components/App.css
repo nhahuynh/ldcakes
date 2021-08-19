@@ -47,7 +47,8 @@ html {
   --bigtext: calc(2.4rem + 1vw);
   --smalltext: calc(0.7rem + 1vw);
   --special-color: #906272;
-  --background-color: #414141;
+  --background-color: #eeebe8;
+  --primary-text: #414141;
   --gray-text: #525252;
 }
 li,

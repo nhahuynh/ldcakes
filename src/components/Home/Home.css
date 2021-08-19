@@ -11,24 +11,26 @@
   flex: 2 1 40rem;
   text-align: center;
   color: var(--gray-text);
+  background: var(--background-color);
 }
 .hero-introduction p {
   padding: 5rem 10rem;
 }
 .hero-introduction h2 {
   padding-top: 2rem;
-  color: var(--background-color);
+  color: var(--primary-text);
 }
 
 .hero-introduction a {
   padding: 2rem 8rem;
   border: 3px solid var(--gray-text);
   margin-bottom: 3rem;
-  color: var(--background-color);
+  color: var(--primary-text);
 }
 
 .hero-images {
   flex: 1 1 30rem;
+  background: var(--background-color);
 }
 
 .hero-cake {
