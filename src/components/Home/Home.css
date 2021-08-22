@@ -14,11 +14,7 @@
   background: var(--background-color);
 }
 .hero-introduction p {
-  padding: 5rem 10rem;
-}
-.hero-introduction h2 {
-  padding-top: 2rem;
-  color: var(--primary-text);
+  padding: 2rem 10rem;
 }
 
 .hero-introduction a {
