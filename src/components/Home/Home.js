@@ -4,7 +4,6 @@ import "../App.css";
 import "./Home.css";
 
 import aboutimg from "../../assets/images/aboutimg.jpg";
-import logo from "../../assets/images/logo.png";
 import heroimg from "../../assets/images/heroimg.jpg";
 import gallery1 from "../../assets/images/img13.jpg";
 import gallery2 from "../../assets/images/img6.jpg";
@@ -17,8 +16,7 @@ class Home extends React.Component {
       <div>
         <section className="hero">
           <div className="hero-introduction flex">
-            {/* <h2>Loan Do Cakes</h2> */}
-            <img src={logo} alt="brand logo" />
+            <h2>Loan Do Cakes</h2>
             <p>
               A unique dessert to wow your guests at parties. <br /> A
               scrumptious treat for yourself and your family.
