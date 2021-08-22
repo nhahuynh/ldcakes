@@ -91,7 +91,7 @@
 
 .gallery-head {
   color: #414141;
-  background: var(--background-color);
+  background: white;
   padding: 10rem;
   text-align: Center;
 }
@@ -111,7 +111,6 @@
   margin-right: auto;
   padding-bottom: 10rem;
   justify-content: center;
-  background: var(--background-color);
 }
 
 .galleryhome img {
