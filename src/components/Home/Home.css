@@ -14,7 +14,9 @@
   background: var(--background-color);
 }
 .hero-introduction p {
-  padding: 2rem 10rem;
+  /* padding: 2rem 10rem; */
+  margin-top: 3rem;
+  margin-bottom: 4rem;
 }
 
 .hero-introduction a {
