@@ -16,10 +16,8 @@ class Home extends React.Component {
     return (
       <div>
         <section className="hero">
-          <div className="hero-introduction flex">
-            <div className="hero-logo">
-              <img src={logo} alt="brand logo" />
-            </div>
+          <div className="hero-introduction flex">          
+            <img src={logo} alt="brand logo" />
             <p>
               A unique dessert to wow your guests at parties. <br /> A
               scrumptious treat for yourself and your family.
