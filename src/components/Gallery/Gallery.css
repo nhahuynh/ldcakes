@@ -36,7 +36,7 @@
   cursor: pointer;
   font-size: var(--text);
   text-transform: uppercase;
-  color: var(--background-color);
+  color: var(--primary-text);
 }
 
 /* Add a pink background color on mouse-over */
